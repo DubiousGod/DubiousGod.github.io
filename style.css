@@ -67,7 +67,6 @@ body {
 #submit {
   width: 130px;
   height: 25px;
-  /*text-align: center;*/
   margin-bottom: 70px;
   background-color: #ffea00;
   border: none;
@@ -94,7 +93,7 @@ body {
 
 .video {
   margin-top: 50px;
-  margin-left: 300px;
+  margin-left: 370px;
   margin-right: 700px;
 }
 
